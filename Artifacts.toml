@@ -1,0 +1,45 @@
+[[fakechroot]]
+arch = "armv7l"
+git-tree-sha1 = "bf59161beaaf4eed7d465afdead6132e1b90d2a1"
+libc = "glibc"
+os = "linux"
+
+    [[fakechroot.download]]
+    sha256 = "aa41e13bfbd5357f8cbbf80256087d6a82e6f3cbfe49196000e7a0295486f17d"
+    url = "https://github.com/JuliaBinaryWrappers/fakechroot_jll.jl/releases/download/fakechroot-v2.20.2+0/fakechroot.v2.20.2.armv7l-linux-gnueabihf.tar.gz"
+[[fakechroot]]
+arch = "aarch64"
+git-tree-sha1 = "76b86c5a4f8217273fb543282b89e2c58458eb46"
+libc = "glibc"
+os = "linux"
+
+    [[fakechroot.download]]
+    sha256 = "c51a04685c0a2631f8dac52df2762b81c2d64a3d6e0542e7770fcebd661b642c"
+    url = "https://github.com/JuliaBinaryWrappers/fakechroot_jll.jl/releases/download/fakechroot-v2.20.2+0/fakechroot.v2.20.2.aarch64-linux-gnu.tar.gz"
+[[fakechroot]]
+arch = "i686"
+git-tree-sha1 = "ed57dabb8748e8bcd68dcc0d411d64be19038189"
+libc = "glibc"
+os = "linux"
+
+    [[fakechroot.download]]
+    sha256 = "80cda5e6876f5b1312156bf18ae11031b06feb22151f3813a62f4f7c15deba07"
+    url = "https://github.com/JuliaBinaryWrappers/fakechroot_jll.jl/releases/download/fakechroot-v2.20.2+0/fakechroot.v2.20.2.i686-linux-gnu.tar.gz"
+[[fakechroot]]
+arch = "x86_64"
+git-tree-sha1 = "47399097305771875b6255db37b4e7bfab5013f1"
+libc = "glibc"
+os = "linux"
+
+    [[fakechroot.download]]
+    sha256 = "635e42e274106a4eae41f275e35e2cbb6d093d34ed887b489adf42f3631c61ac"
+    url = "https://github.com/JuliaBinaryWrappers/fakechroot_jll.jl/releases/download/fakechroot-v2.20.2+0/fakechroot.v2.20.2.x86_64-linux-gnu.tar.gz"
+[[fakechroot]]
+arch = "powerpc64le"
+git-tree-sha1 = "7d76b1f85f49576cebc7ec84e78090e9b5869588"
+libc = "glibc"
+os = "linux"
+
+    [[fakechroot.download]]
+    sha256 = "8dc04df2860e6d67f38392524a76dd2e8b3356e2ca01ae9b241c0e94ab6fa47d"
+    url = "https://github.com/JuliaBinaryWrappers/fakechroot_jll.jl/releases/download/fakechroot-v2.20.2+0/fakechroot.v2.20.2.powerpc64le-linux-gnu.tar.gz"
